@@ -6,3 +6,7 @@
 (3) !python MinTemperatures.py 4_1800.csv > mintemp.txt
 
 (4) !python 5_MaxTemperatures.py 4_1800.csv > maxtemp.txt
+
+(5)!python 6_WordFrequency.py book.txt > wordcountnbooktext.txt
+
+(5)!python 7_WordFrequencySorted.py book.txt > wordcountnbooktext.txt
