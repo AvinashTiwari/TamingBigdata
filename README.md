@@ -12,3 +12,5 @@
 (5)!python 7_WordFrequencySorted.py book.txt > wordcountnbooktext.txt
 
 (6)!python Spend_By_Customer.py customer_orders.csv > orderTotal.txt
+
+(7)!python Spend_By_Customer_Sorted.py customer_orders.csv > orderTotalSorted.txt
