@@ -16,3 +16,5 @@
 (7)!python Spend_By_Customer_Sorted.py customer_orders.csv > orderTotalSorted.txt
 
 (8)!Python MostPopularMovie.py ml-100k/u.data > mostpouplat.txt
+
+(9)!python MostPopularMovieNicer.py --items=ml-100k/u.ITEM ml-100k/u.data > MostPopularMovieNicerdata.txt
